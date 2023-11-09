@@ -1,0 +1,20 @@
+{
+    "propiedades": [
+      {
+        "precio": 25000,
+        "imagen": "../assets/depa1.jpg",
+        "descripcion": "DEPARTAMENTO 50m2 C/ 2 habitaciones, 1 baño, living y comedor"
+      },
+      {
+        "precio": 40000,
+        "imagen": "../assets/depa2.jpg",
+        "descripcion": "DEPARTAMENTO 3 Ambientes 100m2 C/ Cochera en la zona de palermo chico. 6to piso, contrafrente, orientación este, super luminoso. Recién pintado y plastificado."
+      },
+      {
+        "precio": 77000,
+        "imagen": "../assets/depa3.jpg",
+        "descripcion": "DEPARTAMENTO 40m2 ideal para familia chica, tiene 2 habitaciones la cual una contiene cama de 2 plazas. Contiene cocina, comedor y lavandería."
+      }
+    ]
+  }
+  

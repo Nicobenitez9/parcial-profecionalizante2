@@ -1,0 +1,330 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+  
+}
+body{
+    background-color:#DDE6ED;
+}
+.imglogo {
+    border-radius: 360px;
+    width: 20vh;
+    margin: 20px;
+
+}
+.barranav {
+    display: flex;
+    justify-content: space-around;
+    
+}
+header{
+    background-color: #9DB2BF;
+}
+.linknav {
+    margin: 90px;
+   text-decoration: none;
+   color: #101111;
+   font-size: 1.2rem;
+}
+.linknav:hover{
+    cursor: pointer;
+    color: aliceblue;
+    transition: 0.5s;
+}
+.cajalinks {
+margin-top: 70px;
+
+}
+.contenedorcasa {
+    width: 110vh;
+    height: 60vh;
+    border-radius: 20px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    background-image: url(../assets/casa.jpg);
+    background-repeat: no-repeat;
+   background-size: cover;
+   
+}
+
+.casamain {
+    display: flex;
+    justify-content: center;
+    
+}
+.casaboton {
+    padding: 15px;
+    margin: auto;
+    width: 240px;
+    height: 65px;
+    background-color: transparent;
+    border-radius: 20px;
+    border: solid  rgb(255, 255, 255) 3px;
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: #ffffff;
+    text-align: center;
+    
+}
+
+.casaboton:hover{
+ border: solid rgb(78, 2, 2) 3px;
+ transition: 0.5s;
+color: rgb(61, 1, 1);
+}
+.depamain{
+    display: flex;
+    justify-content: center;
+    
+}
+.contenedordepa{
+    width: 110vh;
+    height: 60vh;
+    border-radius: 20px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+   background-image: url(../assets/depa.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.depaboton{
+    padding: 15px;
+    margin: auto;
+    width: 240px;
+    height: 65px;
+    background-color: transparent;
+    border-radius: 20px;
+    border: solid  rgb(244, 242, 248) 3px;
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: #fcffff;
+    text-align: center;
+     
+}
+.depaboton:hover{
+    border: solid rgb(79, 135, 172) 3px;
+    transition: 0.5s;
+   color: rgb(94, 153, 172);  
+}
+
+.hotelmain{
+    display: flex;
+    justify-content: center
+}
+.contenedorhotel{
+    width: 110vh;
+    height: 60vh;
+    border-radius: 20px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+   background-image: url(../assets/hotel.jpg);
+   background-repeat: no-repeat;
+   background-size: cover; 
+}
+.hotelboton{
+    padding: 15px;
+    margin: auto;
+    width: 240px;
+    height: 65px;
+    background-color: transparent;
+    border-radius: 20px;
+    border: solid  rgb(255, 255, 255) 3px;
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: #ffffff;
+    text-align: center;
+      
+}
+.hotelboton:hover{
+    border: solid rgb(121, 2, 2) 3px;
+    transition: 0.5s;
+   color: rgb(134, 2, 2);  
+}
+
+.inputform{
+    margin: 4px;
+    border: solid black 2px;
+   background-color: transparent;
+   padding: 5px;
+}
+.buttonform{
+    border: solid black 2px;
+    text-decoration: none;
+    color: black;
+}
+.logofooter {
+    font-size: 2rem;
+}
+.imagenproduct{
+    width: 70vh;
+    height: 50vh;
+    border: solid 1px black;
+    background-image: url(../assets/casaprin1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+.image2protcasa{
+    width: 40vh;
+    height: 20vh;
+    margin: 30px;
+    border-radius: 10px;
+}
+.image1{
+    width: 45vh;
+    height: 25vh;
+    background-image: url(../assets/casanew1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.image2{
+    width: 45vh;
+    height: 25vh;
+    background-image: url(../assets/casanew2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.image3{
+    width: 45vh;
+    height: 25vh;
+    background-image: url(../assets/casanew3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.informacioncasa{
+    width: 90vh;
+    margin: auto;
+}
+.imageproductdepa{
+    width: 70vh;
+    height: 50vh;
+    border: solid 1px black;
+    background-image: url(../assets/depaprincipal.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+.image2protdepa{
+    width: 40vh;
+    height: 20vh;
+    margin: 30px;
+    border-radius: 10px
+}
+.imagedepa1{
+    width: 45vh;
+    height: 25vh;
+    background-image: url(../assets/depaprot1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.imagedepa2{
+    width: 45vh;
+    height: 25vh;
+    background-image: url(../assets/depaprot2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.imagedepa3{
+    width: 45vh;
+    height: 25vh;
+    background-image: url(../assets/depaprot3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.imageproducthotel{
+    width: 70vh;
+    height: 50vh;
+    border: solid 1px black;
+    background-image: url(../assets/hotelprinci1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+
+.image2prothotel{
+    width: 40vh;
+    height: 20vh;
+    margin: 30px;
+    border-radius: 10px 
+}
+}
+.imagehotel1{
+    width: 45vh;
+    height: 25vh;
+    background-image: url(../assets/hotelprot1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.imagehotel2{
+    width: 45vh;
+    height: 25vh;
+    background-image: url(../assets/hotelprot2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.imagehotel3{
+    width: 45vh;
+    height: 25vh;
+    background-image: url(../assets/hotelprot3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.image2prothotel{
+    width: 40vh;
+    height: 20vh;
+    margin: 30px;
+    border-radius: 10px 
+}
+
+.tamanioCard{
+    width: 18rem;
+}
+
+.cardArreglado{
+    display: flex;
+    justify-content: space-around;
+    gap: 50px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 50vh;
+    background-color: #f0f0f0;
+}
+
+.form-container {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    padding: 20px;
+    width: 300px; /* Ancho del cuadro */
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+label, input {
+    display: block;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

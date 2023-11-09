@@ -1,0 +1,28 @@
+{
+    "hoteles": [
+      {
+        
+        "imagen": "../assets/hotel1.jpg",
+        "titulo": "HOTEL US $1400",
+        "descripcion": "Alquiler Modulo En Club Hotel Catedral - 7 Noches En Tiempo Compartido - 29 Julio Al 5 De Agosto",
+        "enlace": "./hotel1.html",
+        "precio": 1400
+        
+      },
+      {
+        "imagen": "../assets/hotel2.jpg",
+        "titulo": "HOTEL US$1.600.000",
+        "descripcion": "Venta De Apart Hotel Quinn Spa En Valeria Del Mar -pinamar-familia- Verano-playa-sol.",
+        "enlace": "#",
+        "precio": 1600000
+      },
+      {
+        "imagen": "../assets/hotel3.jpg",
+        "titulo": "HOTEL US$2.040.000",
+        "descripcion": "Excelente Hotel En Costa Azul!! 4 Estrellas!!",
+        "enlace": "#",
+        "precio": 2040000
+      }
+    ]
+  }
+  

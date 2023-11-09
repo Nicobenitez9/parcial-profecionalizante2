@@ -1,0 +1,25 @@
+{
+  "propiedades": [
+    {
+      "title": "CASA 1 - $135,000",
+      "description": "CASA 4 ambientes de 300m2\nCocina, 2 Baños, cochera y jardín",
+      "image_url": "/assets/casa1.jpg",
+      "link": "./casas1.html",
+      "precio": 135000
+    },
+    {       
+      "title": "CASA 2 - $2,000",
+      "description": "CASA especial para fin de semana\nCochera para 2 autos, 5 habitaciones y 3 baños, patio amplio con piscina y cancha de fútbol",
+      "image_url": "/assets/casa2.jpg",
+      "link": "#",
+      "precio": 2000
+    },
+    {
+      "title": "CASA 3 - $125,000",
+      "description": "CASA familiar de 450m2 con 4 habitaciones, cuarto de cine, cuarto de juegos, cocina, comedor y cochera",
+      "image_url": "/assets/casa3.jpg",
+      "link": "#",
+      "precio": 125000
+    }
+  ]
+}
